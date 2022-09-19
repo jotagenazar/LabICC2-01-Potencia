@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/106783009/191138556-b0ec92fb-8eb0-4151-b109-d5ca961b5c3c.png" />
 </p>
-
+Alunos: Felipi Yuri Santos (11917272) e João Gabriel Manfré Nazar (13733652)
 
 # LabICC2 - Trabalho 01 - Potência
 
