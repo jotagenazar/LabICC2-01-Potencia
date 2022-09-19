@@ -29,7 +29,7 @@
 ![image](https://user-images.githubusercontent.com/106783009/191138358-40740fd1-10a9-46d8-9175-aa8c2a5eecf7.png)
 
 ### Tempo de Execução da Versão Recursiva
-![image](https://user-images.githubusercontent.com/106783009/191136530-72e19b85-fed7-4de9-88a1-81f2412b4249.png)
+![image](https://user-images.githubusercontent.com/106783009/191138486-b2762f17-dc79-404b-a5ea-61eb29cd972e.png)
 
 &ensp;O computador utilizado para os testes foi um notebook Dell G15 5510, com um processador Intel Core i5-10500H, funcionando à bateria com Eficiência Agressiva selecionado como opção de modo de aumento de desempenho do processador nas opções de energia do Windows 10 Pro 21H2.
 
