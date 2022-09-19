@@ -22,3 +22,17 @@
 | ---------------- | ----- | -------- | --------- | ---------- | ------------- |
 | Entrada Esperada | 2 10  | 99 75301 | 37 543210 | 27 6543101 | 52 1000000000 |
 | Saída Esperada   | 24    | 99       | 849       | 27         | 376           |
+
+## Comparação dos Tempos de Execução
+
+### Tempo de Execução da Versão Iterativa
+![image](https://user-images.githubusercontent.com/106783009/191136480-44f2dc30-92e3-4e49-ab10-b88f923b28bc.png)
+
+### Tempo de Execução da Versão Recursiva
+![image](https://user-images.githubusercontent.com/106783009/191136530-72e19b85-fed7-4de9-88a1-81f2412b4249.png)
+
+&ensp;O computador utilizado para os testes foi um notebook Dell G15 5510, com um processador Intel Core i5-10500H, funcionando à bateria com Eficiência Agressiva selecionado como opção de modo de aumento de desempenho do processador nas opções de energia do Windows 10 Pro 21H2.
+
+## Considerações
+
+&ensp;Devido à natureza de cada algoritmo, enquanto a versão iterativa executa a multiplicação k vezes, a versão recursiva é capaz de aproveitar a propriedade n^k = n^(k/2) * n^(k/2) para realizar um número exponencialmente menor de múltiplicações, ao custo de multiplicar números maiores mais vezes, o que nesse caso se provou excepcionalmente mais eficiente.
