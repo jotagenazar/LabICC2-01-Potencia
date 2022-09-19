@@ -26,7 +26,7 @@
 ## Comparação dos Tempos de Execução
 
 ### Tempo de Execução da Versão Iterativa
-![image](https://user-images.githubusercontent.com/106783009/191136480-44f2dc30-92e3-4e49-ab10-b88f923b28bc.png)
+![image](https://user-images.githubusercontent.com/106783009/191138358-40740fd1-10a9-46d8-9175-aa8c2a5eecf7.png)
 
 ### Tempo de Execução da Versão Recursiva
 ![image](https://user-images.githubusercontent.com/106783009/191136530-72e19b85-fed7-4de9-88a1-81f2412b4249.png)
